@@ -1,15 +1,17 @@
 ## README.md Kelompok Ayam Goreng
 
-25523149 - Keysha Indira Satya Putri
-25523236 - Diah Putri Pertiwi 
-25523252 - Rizka Nabila Nuraini
+25523149 - Keysha Indira Satya Putri |
+25523236 - Diah Putri Pertiwi |
+25523252 - Rizka Nabila Nuraini 
 
 ## Sumber Dataset
 
 #### Linear Regression
+
 https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
 
-####Logistic Regression
+#### Logistic Regression
+
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 ## Ringkasan Hasil
@@ -18,6 +20,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 Proyek ini bertujuan membangun model regresi linier untuk memprediksi massa tubuh penguin (body_mass_g) berdasarkan variabel morfologi, spesies, dan jenis kelamin.
 
 #### Logistic Regression
+Proyek ini bertujuan membangun model Logistic Regression untuk memprediksi risiko penyakit jantung berdasarkan variabel-variabel klinis pasien. Model ini berhasil mencapai Accuracy 77.05%, Recall 89.66%, dan nilai ROC-AUC 0.8341.
 
 ## Kontribusi Tim
 
