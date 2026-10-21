@@ -25,27 +25,27 @@ Proyek ini bertujuan membangun model Logistic Regression untuk memprediksi risik
 ## Kontribusi Tim
 
 #### A. Linear Regression
-A1. Deskripsi Dataset - Keysha indira Satya Putri
-A2. Eksplorasi dan Visualisasi Data
+1. A1. Deskripsi Dataset - Keysha indira Satya Putri
+2. A2. Eksplorasi dan Visualisasi Data
   - Histogram - Diah Putri Pertiwi 
   - Heatmap - Keysha indira Satya Putri
   - Scatter Plot - Keysha indira Satya Putri
-A3. Preprocessing - Keysha indira Satya Putri
-A4. Pemilihan Fitur - Keysha indira Satya Putri
-A5. Pembagian Data - Keysha indira Satya Putri
-A6. Pemodelan - Keysha indira Satya Putri
-A7. Evaluasi - Keysha indira Satya Putri
-A8. Analisis Performa - Keysha indira Satya Putri
+3. A3. Preprocessing - Keysha indira Satya Putri
+4. A4. Pemilihan Fitur - Keysha indira Satya Putri
+5. A5. Pembagian Data - Keysha indira Satya Putri
+6. A6. Pemodelan - Keysha indira Satya Putri
+7. A7. Evaluasi - Keysha indira Satya Putri
+8. A8. Analisis Performa - Keysha indira Satya Putri
 
 #### B. Logistic Regression
-B1. Deskripsi Dataset - Rizka Nabila Nuraini & Diah Putri Pertiwi 
-B2. Eksplorasi dan Visualisasi Data
+1. B1. Deskripsi Dataset - Rizka Nabila Nuraini & Diah Putri Pertiwi 
+2. B2. Eksplorasi dan Visualisasi Data
   - Bar Chart - Diah Putri Pertiwi 
   - Box Plot - Diah Putri Pertiwi 
   - Heatmap - Diah Putri Pertiwi 
-B3. Preprocessing - Rizka Nabila Nuraini
-B4. Pemilihan Fitur - Rizka Nabila Nuraini
-B5. Pembagian Data - Diah Putri Pertiwi
-B6. Pemodelan - Diah Putri Pertiwi
-B7. Evaluasi - Rizka Nabila Nuraini
-B8. Analisis Performa - Rizka Nabila Nuraini
+3. B3. Preprocessing - Rizka Nabila Nuraini
+4. B4. Pemilihan Fitur - Rizka Nabila Nuraini
+5. B5. Pembagian Data - Diah Putri Pertiwi
+6. B6. Pemodelan - Diah Putri Pertiwi
+7. B7. Evaluasi - Rizka Nabila Nuraini
+8. B8. Analisis Performa - Rizka Nabila Nuraini
